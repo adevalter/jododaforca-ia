@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String projectId = ""; // sua id
+        String projectId = "seuprojetoid"; // sua id
         String location = "us-central1";
         String modelName = "gemini-1.5-flash-001";
 
